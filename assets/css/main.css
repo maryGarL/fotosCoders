@@ -1,0 +1,19 @@
+body{
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+div{
+margin: 26px;
+}
+
+select{
+  font-family: 'Raleway', sans-serif;
+  border-style: solid;
+  border-radius: 25px;
+  border:1px solid;
+  border-color: rgba(255, 235, 59, 0.74);
+  width: 200px;
+  height: 30px;
+  margin-top: 20px;
+  }
